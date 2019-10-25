@@ -21,7 +21,7 @@ Dependências.
 
 Iniciar aplicação:
 
-yarn install
+yarn install </br>
 yarn start
 
 
