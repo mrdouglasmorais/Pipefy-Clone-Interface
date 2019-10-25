@@ -7,16 +7,16 @@ Interface Clone de aplicação em ReactJS - Pipefy.
 ReactJS 16.9.0
 
 Dependências.
-<li>
-<ul>immer</ul>
-<ul>react</ul>
-<ul>react-dnd</ul>
-<ul>react-dnd-html5-backend</ul>
-<ul>react-dom</ul>
-<ul>react-icons</ul>
-<ul>react-scripts</ul>
-<ul>styled-components</ul>
-</li>
+<ul>
+<li>immer</li>
+<li>react</li>
+<li>react-dnd</li>
+<li>react-dnd-html5-backend</li>
+<li>react-dom</li>
+<li>react-icons</li>
+<li>react-scripts</li>
+<li>styled-components</li>
+</ul>
 
 
 Iniciar aplicação:
